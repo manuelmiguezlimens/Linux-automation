@@ -21,6 +21,7 @@ autónomo y puede entenderse y ejecutarse de forma independiente.
 linux-automation/
 ├── Backup-Rsync/
 ├── Disk-Monitor/
+├── Linux-Hardening-Basic/
 ```
 Cada carpeta incluye:
 
